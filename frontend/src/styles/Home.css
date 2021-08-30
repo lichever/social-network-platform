@@ -1,0 +1,10 @@
+.home {
+    /* 用100% 不用px 是因为 随着页面变化 gallery图片排列也会相应变化*/
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+.video-block{
+    width: 100%;
+}
