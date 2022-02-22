@@ -1,7 +1,4 @@
-# around
-
-### Overview:
-#### A Cloud and React based Social Network
+### A Cloud and React based Social Network
 
 ##### Frontend
 * Designed and implemented a social network web application with React JS. 
